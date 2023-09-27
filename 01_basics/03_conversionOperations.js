@@ -31,4 +31,4 @@ let lastName = "Lama"
 console.log(firstName + " " + lastName);
 
 
-
+//7 video completed
